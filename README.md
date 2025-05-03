@@ -1,8 +1,8 @@
 # Data Scientist 
 
 ### Education 
-Eastern Michigan University | Ypsilanti, MI |B.S. Computer Engineering | September 2014 - April 2019 | GPA: 3.2/4.0
-Wayne State University | Detroit, MI |M.S. Data Science and Business Analytics | August 2024 - present
+- Eastern Michigan University | Ypsilanti, MI |B.S. Computer Engineering | September 2014 - April 2019 | GPA: 3.2/4.0
+- Wayne State University | Detroit, MI |M.S. Data Science and Business Analytics | August 2024 - present
 
 ### Work Experience
 Instructional Technician @ Northville Public Schools | September 2021 – present| Northville, MI
