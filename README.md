@@ -6,13 +6,13 @@ Wayne State University | Detroit, MI |M.S. Data Science and Business Analytics |
 
 ### Work Experience
 Instructional Technician @ Northville Public Schools | September 2021 – present| Northville, MI
-• Provide technical support and troubleshooting for computers, VoIP Cisco phones, chromebooks, projectors, A/V, interactive display panels (promethean, smart, etc.) printers, and other classroom technology to ensure smooth operation in an educational setting.
-• Install, image (using SCCM), configure, and maintain hardware/software across Windows, macOS, and Chrome OS devices.
-• Checking computer hardware (HDD, SSD, RAM, mouses, keyboards etc.) to ensure functionality.
-• Installing and configuring appropriate software and functions according to specifications.
-• Trains and guides instructional staff to identify and use technology tools to support student learning.
-• Oversees technology and deployment, field services, and ensure students and staff have the information, tools, and connections to be effective.
-• Manage MDM solutions for iPads, iPhones, and Chromebooks using Jamf Pro and Chrome Management.
+- Provide technical support and troubleshooting for computers, VoIP Cisco phones, chromebooks, projectors, A/V, interactive display panels (promethean, smart, etc.) printers, and other classroom technology to ensure smooth operation in an educational setting.
+- Install, image (using SCCM), configure, and maintain hardware/software across Windows, macOS, and Chrome OS devices.
+- Checking computer hardware (HDD, SSD, RAM, mouses, keyboards etc.) to ensure functionality.
+- Installing and configuring appropriate software and functions according to specifications.
+- Trains and guides instructional staff to identify and use technology tools to support student learning.
+- Oversees technology and deployment, field services, and ensure students and staff have the information, tools, and connections to be effective.
+- Manage MDM solutions for iPads, iPhones, and Chromebooks using Jamf Pro and Chrome Management.
 
 IT  Support Technician @ Stefanini IT Solutions | May 2020 – September 2021 | Remote
 • Troubleshoot SAAS enterprise tools such as Gsuite and Okta .
