@@ -15,11 +15,11 @@ Instructional Technician @ Northville Public Schools | September 2021 – presen
 - Manage MDM solutions for iPads, iPhones, and Chromebooks using Jamf Pro and Chrome Management.
 
 IT  Support Technician @ Stefanini IT Solutions | May 2020 – September 2021 | Remote
-• Troubleshoot SAAS enterprise tools such as Gsuite and Okta .
-• Provide restorative or maintenance actions to resolve end-user problems.
-• Regularly use Active Directory to create and maintain organizational units, groups, and user accounts.
-• Working knowledge of troubleshooting O365 applications and verifying licenses (Outlook, Teams, etc.).
-• Correctly track incidents and calls, including but not limited to entering data into a ticketing system timely and accurately.
+- Troubleshoot SAAS enterprise tools such as Gsuite and Okta .
+- Provide restorative or maintenance actions to resolve end-user problems.
+- Regularly use Active Directory to create and maintain organizational units, groups, and user accounts.
+- Working knowledge of troubleshooting O365 applications and verifying licenses (Outlook, Teams, etc.).
+- Correctly track incidents and calls, including but not limited to entering data into a ticketing system timely and accurately.
 
 ### Projects
 Stock Market Price Analysis and Prediction 
