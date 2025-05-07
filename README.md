@@ -28,7 +28,7 @@
 - Engineered a binary feature indicating daily stock price movement (0 for price decrease, 1 for increase). This was made the target variable. 
 - Optimized and compared **Artificial Neural Networks (ANN), Decision Trees, and XGBoosting** classification methods. Each model was evaluated on how well they could forecast next-day price movement (up or down). Model performance metrics used include: **Accuracy, precision, error rate, recall, and F1-measure**.
 
-[Comparative Analysis of Regression Models]
+[Comparative Analysis of Regression Models](https://github.com/eloweDS/regression_models_comparison)
 - Evaluated the performance of six regression models across 20 diverse datasets, focusing on model selection, hyperparameter tuning, and interpretation of model metrics.
 - Regression models selected were: **Linear Regression, Ridge Regression, Lasso Regression, Principal Component Regression (PCR), Support Vector Regression (SVR), and Regression Splines**. Each model was applied to 20 datasets of different sizes, # of features, etc.
 - Model performance metrics used: **MSE, RMSE, RSS, R^2, and RSE**. The performance of each regression model was compared using these metrics.
