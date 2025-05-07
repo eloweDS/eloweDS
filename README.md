@@ -26,4 +26,4 @@
 - Created a model that predicts daily stock price movement which would help investors make more informed decisions based on whether the stock price will go up or down the next day.
 - Scraped stock data from leading companies in the NASDAQ-100 index using yfinance API (imported into Python).
 - Engineered a binary feature indicating daily stock price movement (0 for price decrease, 1 for increase). This was made the target variable. 
-- Optimized and compared ==Artificial Neural Networks (ANN), Decision Trees, and XGBoosting== classification methods. Each model was evaluated on how well they could forecast next-day price movement (up or down). Model performance metrics used include: ==Accuracy, precision, error rate, recall, and F1-measure==.
+- Optimized and compared **Artificial Neural Networks (ANN), Decision Trees, and XGBoosting** classification methods. Each model was evaluated on how well they could forecast next-day price movement (up or down). Model performance metrics used include: **Accuracy, precision, error rate, recall, and F1-measure**.
