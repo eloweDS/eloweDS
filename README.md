@@ -22,10 +22,15 @@
 - Correctly track incidents and calls, including but not limited to entering data into a ticketing system timely and accurately.
 
 ## Projects
-###[Stock Market Price Analysis and Prediction](https://github.com/eloweDS/stock_market_project/tree/main)
+[Stock Market Price Analysis and Prediction](https://github.com/eloweDS/stock_market_project/tree/main)
 - Created a model that predicts daily stock price movement which would help investors make more informed decisions based on whether the stock price will go up or down the next day.
 - Scraped stock data from leading companies in the NASDAQ-100 index using yfinance API (imported into Python).
 - Engineered a binary feature indicating daily stock price movement (0 for price decrease, 1 for increase). This was made the target variable. 
 - Optimized and compared **Artificial Neural Networks (ANN), Decision Trees, and XGBoosting** classification methods. Each model was evaluated on how well they could forecast next-day price movement (up or down). Model performance metrics used include: **Accuracy, precision, error rate, recall, and F1-measure**.
 
+[Comparative Analysis of Regression Models]
+- Evaluated the performance of six regression models across 20 diverse datasets, focusing on model selection, hyperparameter tuning, and interpretation of model metrics.
+- Regression models selected were: **Linear Regression, Ridge Regression, Lasso Regression, Principal Component Regression (PCR), Support Vector Regression (SVR), and Regression Splines**. Each model was applied to 20 datasets of different sizes, # of features, etc.
+- Model performance metrics used: **MSE, RMSE, RSS, R^2, and RSE**. The performance of each regression model was compared using these metrics.
+- The goal for this project was to gain a better understanding of how to build regression models, model selection, and how to interpret model metrics.
 
