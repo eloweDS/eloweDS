@@ -22,5 +22,5 @@
 - Correctly track incidents and calls, including but not limited to entering data into a ticketing system timely and accurately.
 
 ### Projects
-Stock Market Price Analysis and Prediction 
+[Stock Market Price Analysis and Prediction](https://github.com/eloweDS/stock_market_project/tree/main)
 
