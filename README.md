@@ -24,6 +24,14 @@
 - Charts and graphs were created to visualize trends and correlations in traffic crashes.
 - Formulated a conclusion to explain findings.
 
+[Eletric Car Sales](https://colab.research.google.com/drive/1J-hUXskzVkbqdLEep4FPuIUFziQDLIya)
+- Analyzed historic and projected electric car sales / share data. EV data provided by iea.org.
+- Deliverables included:
+  - Exploratory data analysis with 14 visualizations highlighting correlations, frequencies,        and regional EV trends.
+  - Interactive Plotly Dash dashboard showcasing all visuals.
+  - Deployment of the dashboard on Google Cloud.
+  - Predictive modeling using Random Forest and XGBoost to forecast EV adoption trends.
+
 
 ## Work Experience
 **Instructional Technician @ Northville Public Schools** | September 2021 – present| Northville, MI
