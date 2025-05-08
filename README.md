@@ -24,7 +24,7 @@
 - Charts and graphs were created to visualize trends and correlations in traffic crashes.
 - Formulated a conclusion to explain findings.
 
-[Eletric Car Sales](https://colab.research.google.com/drive/1J-hUXskzVkbqdLEep4FPuIUFziQDLIya)
+[Electric Car Sales](https://github.com/eloweDS/EV_Sales_Shares/tree/main)
 - Analyzed historic and projected electric car sales / share data. EV data provided by iea.org.
 - Deliverables included:
   - Exploratory data analysis with 14 visualizations highlighting correlations, frequencies,        and regional EV trends.
