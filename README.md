@@ -34,3 +34,9 @@
 - Model performance metrics used: **MSE, RMSE, RSS, R^2, and RSE**. The performance of each regression model was compared using these metrics.
 - The goal for this project was to gain a better understanding of how to build regression models, model selection, and how to interpret model metrics.
 
+[Detroit Traffic Crashes EDA](https://github.com/eloweDS/traffic_crashes)
+- Analyzed the traffic crashes data provided by the city of detroit on their open data portal.
+- Utilized data analytical techniques such as EDA and segmentation to discover traffic crash insights in the city of Detroit. Results include most dangerous intersections /  primary roads, most/least dangerous weekdays, anomolies in speed limit, speed limit at which most accidents occur, etc.
+- Charts and graphs were created to visualize trends and correlations in traffic crashes.
+- Formulated a conclusion to explain findings. 
+
